@@ -1,3 +1,3 @@
 # pub
 pub
-![](dodawanie.png)
+![](images/dodawanie.png)
