@@ -4,8 +4,7 @@
 * [Features](#Features)
 * [Web adress](#web-adress)
 ## General info
-This project is simple Virtual Conference Portal.
-	
+tutaj trzeba opisac projekt	
 ## Technologies
 Project is created with:
 * HTML5
@@ -15,14 +14,20 @@ Project is created with:
 * SQL
 	
 ## Features
+
 * Login 
+
 ![](images/login.png)
+
 * List of items
 ![](images/towar.png)
+
 * Delivery and sale
 ![](images/dostawa.png)
+
 * Add and remove product
 ![](images/dodawanie.png)
+
 * History
 ![](images/historia.png)
 
