@@ -12,7 +12,8 @@ Project is created with:
 * JavaScript
 * Php
 * SQL
-	
+* MySQL
+
 ## Features
 
 * Login 
