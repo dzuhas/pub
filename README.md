@@ -20,15 +20,19 @@ Project is created with:
 ![](images/login.png)
 
 * List of items
+
 ![](images/towar.png)
 
 * Delivery and sale
+
 ![](images/dostawa.png)
 
 * Add and remove product
+
 ![](images/dodawanie.png)
 
 * History
+
 ![](images/historia.png)
 
 
