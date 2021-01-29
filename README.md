@@ -11,14 +11,20 @@ Project is created with:
 * HTML5
 * CSS3
 * JavaScript
-* Firebase
+* Php
+* SQL
 	
 ## Features
-* Login and register
-* Chat
-* Agenda
-* Web streaming
-
-## Web adress
-To run this project go to https://konferencjaopszczolkach.000webhostapp.com/
+* Login 
+![](images/login.png)
+* List of items
+![](images/towar.png)
+* Delivery and sale
+![](images/dostawa.png)
+* Add and remove product
 ![](images/dodawanie.png)
+* History
+![](images/historia.png)
+
+
+
