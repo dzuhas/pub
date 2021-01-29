@@ -4,7 +4,8 @@
 * [Features](#Features)
 * [Web adress](#web-adress)
 ## General info
-tutaj trzeba opisac projekt	
+I was working in a pub for 6 years. We were using paper notebook to count the goods twice everyday. I decided to make simple aplication to make my work easlier.
+
 ## Technologies
 Project is created with:
 * HTML5
@@ -18,9 +19,13 @@ Project is created with:
 
 * Login 
 
+There is one login for owner of pub and one for bartender.
+
 ![](images/login.png)
 
 * List of items
+
+List of everything 
 
 ![](images/towar.png)
 
